@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b741842-998b-4838-8c6a-9bbcf624dcf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StudyHalls/Day06_ListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StudyHalls/Day06_ListenersTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StudyHalls/Day_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StudyHalls/Day_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mylabs/Lab12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mylabs/Lab12Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/POMPages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/POMPages/SeleniumPracticeHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/POMPages/SmartBearLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/day10/c4_tables_practice_more1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/day12/c1_smartBearPOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/day12/c2_smartBearNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/day12/c3_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myproject/day13/c1_explicitlywaitWithPOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyHall.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/labs/lab13.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/labs/lab13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myproject/day11/c3_actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myproject/day11/c3_actions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myproject/day11/c3_actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myproject/day11/c3_actions.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JpoheUB9rMXj5qqMMwgD62SNFt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.c4_tables_practice_more1.TC1">
+    <configuration name="/Users/aaltintas/IdeaProjects/SeleniumTestNG07/parallel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG07" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c2_Configuration_properties_withSmartBear" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myproject.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myproject.day10" />
+      <option name="MAIN_CLASS_NAME" value="myproject.day10.c2_Configuration_properties_withSmartBear" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c2_Configuration_properties_withSmartBear.TC1_verifyDelete" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myproject.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myproject.day10" />
+      <option name="MAIN_CLASS_NAME" value="myproject.day10.c2_Configuration_properties_withSmartBear" />
+      <option name="METHOD_NAME" value="TC1_verifyDelete" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c4_tables_practice_more1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myproject.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myproject.day10" />
+      <option name="MAIN_CLASS_NAME" value="myproject.day10.c4_tables_practice_more1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c4_tables_practice_more1.TC1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myproject.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myproject.day10" />
+      <option name="MAIN_CLASS_NAME" value="myproject.day10.c4_tables_practice_more1" />
+      <option name="METHOD_NAME" value="TC1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.c4_tables_practice_more1.TC1" />
+        <item itemvalue="TestNG.c4_tables_practice_more1" />
+        <item itemvalue="TestNG.c2_Configuration_properties_withSmartBear" />
+        <item itemvalue="TestNG.c2_Configuration_properties_withSmartBear.TC1_verifyDelete" />
+        <item itemvalue="TestNG./Users/aaltintas/IdeaProjects/SeleniumTestNG07/parallel.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b741842-998b-4838-8c6a-9bbcf624dcf8" name="Changes" comment="" />
+      <created>1672784507357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672784507357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
